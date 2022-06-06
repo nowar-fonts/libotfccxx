@@ -3,7 +3,7 @@ project(libotfcc++)
 include(CheckLibraryExists)
 
 set(CMAKE_C_STANDARD 11)
-set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD 23)
 
 include_directories(
 	"${PROJECT_SOURCE_DIR}/include"

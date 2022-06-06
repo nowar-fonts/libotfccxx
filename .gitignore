@@ -4,6 +4,7 @@ __pycache__
 /.cache
 /font-builder/src/*.otd
 /font-builder/out
-/build
+/build-gcc
+/build-clang
 /release
 /compile_commands.json
